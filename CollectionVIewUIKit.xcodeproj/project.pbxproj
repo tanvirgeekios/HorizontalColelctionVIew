@@ -13,6 +13,7 @@
 		EB25E78C25E3555500D59023 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB25E78A25E3555500D59023 /* Main.storyboard */; };
 		EB25E78E25E3555600D59023 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB25E78D25E3555600D59023 /* Assets.xcassets */; };
 		EB25E79125E3555600D59023 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB25E78F25E3555600D59023 /* LaunchScreen.storyboard */; };
+		EB25E79A25E35EEC00D59023 /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB25E79925E35EEC00D59023 /* MyCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EB25E78D25E3555600D59023 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB25E79025E3555600D59023 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EB25E79225E3555600D59023 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EB25E79925E35EEC00D59023 /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				EB25E78425E3555500D59023 /* AppDelegate.swift */,
 				EB25E78625E3555500D59023 /* SceneDelegate.swift */,
 				EB25E78825E3555500D59023 /* ViewController.swift */,
+				EB25E79925E35EEC00D59023 /* MyCollectionViewCell.swift */,
 				EB25E78A25E3555500D59023 /* Main.storyboard */,
 				EB25E78D25E3555600D59023 /* Assets.xcassets */,
 				EB25E78F25E3555600D59023 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				EB25E78925E3555500D59023 /* ViewController.swift in Sources */,
 				EB25E78525E3555500D59023 /* AppDelegate.swift in Sources */,
+				EB25E79A25E35EEC00D59023 /* MyCollectionViewCell.swift in Sources */,
 				EB25E78725E3555500D59023 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
